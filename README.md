@@ -24,13 +24,13 @@ The dataset contains information about Titanic passengers such as:
 
 ## Visualizations:
 ### Survival Count
-![Survival Plot](screenshots/survival_plot.png)
+![Survival Plot](count.png)
 
 ### Survival by Gender
-![Gender Plot](screenshots/gender_plot.png)
+![Gender Plot](Gender.png)
 
 ### Correlation Heatmap
-![Heatmap](screenshots/heatmap.png)
+![Heatmap](Heatmap.png)
 
 ## Observations:
 - More males died, more females survived.
